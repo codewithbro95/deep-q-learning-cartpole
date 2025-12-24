@@ -70,7 +70,6 @@ python demo.py
 
 ![Alt text](artifacts/demo_ss.png?raw=true "demo_ss")
 
-
 * **Controls:**
 * **LEFT ARROW:** Apply a sudden force (kick) to the left.
 * **RIGHT ARROW:** Apply a sudden force (kick) to the right.
