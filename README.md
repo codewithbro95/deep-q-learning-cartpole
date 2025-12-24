@@ -23,7 +23,7 @@ Built from scratch using **PyTorch** and **Gymnasium**, this project demonstrate
 
 ```bash
 git clone https://github.com/codewithbro95/deep-q-learning-cartpole.git
-cd cartpole-dqn
+cd deep-q-learning-cartpole
 
 ```
 
