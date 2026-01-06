@@ -1,6 +1,6 @@
 # Deep Q-Learning (DQN) for CartPole-v1
 
-This repository contains a robust implementation of a **Deep Q-Network (DQN)** agent capable of solving the classic *CartPole-v1* control problem.
+This repository contains an implementation of a **Deep Q-Network (DQN)** agent capable of solving the classic *CartPole* control problem.
 
 Built from scratch using **PyTorch** and **Gymnasium**, this project demonstrates key Reinforcement Learning concepts including Experience Replay, Target Networks, and Epsilon-Greedy exploration. It also features a custom interactive demo mode that allows to stress-test the trained agent by applying external forces.
 
